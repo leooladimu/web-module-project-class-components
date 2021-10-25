@@ -1,0 +1,10 @@
+body {
+    /* position: absolute; */
+    /* top: 50%; */
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    font-family: sans-serif;
+    color: red;
+    background: linear-gradient(#141e30, #243b55);
+  }
